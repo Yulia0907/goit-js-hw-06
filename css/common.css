@@ -23,13 +23,13 @@ button {
   cursor: pointer;
 }
 
-// .gallery {
-  //     display: grid;
-  //     grid-gap: 10px;
-  //     grid-template-columns: 1fr 1fr 1fr;
-  //   }
+.gallery {
+     display: grid;
+      grid-gap: 10px;
+      grid-template-columns: 1fr 1fr 1fr;
+   }
     
-  //   .gallery > li {
-  //     list-style-type: none;
-  //   }
+.gallery > li {
+  list-style-type: none;
+  }
   
